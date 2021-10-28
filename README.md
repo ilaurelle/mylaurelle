@@ -1,7 +1,6 @@
 ### Hi there, I'm Laurelle 👋
-
-## I'm a Teen, Developer and Freelance!!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mylaurelle&show_icons=true&theme=radical)
+## I'm a Teen, Developer and Freelance!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
